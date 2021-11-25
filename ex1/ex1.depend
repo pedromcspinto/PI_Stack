@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1619458367 source:c:\program files\codeblocks\mingw\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+
+1619458535 c:\program files\codeblocks\mingw\ex1\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
